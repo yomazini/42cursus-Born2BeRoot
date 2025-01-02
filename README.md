@@ -4,4 +4,4 @@ linux
 
 # SSH Diagram
 
-<img src="./image/totest.svg" alt="SSH Diagram">
+<img src="./image/All Eval B2R .svg" alt="SSH Diagram">
