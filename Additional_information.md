@@ -5,7 +5,7 @@
 
 ## Virtualization 🌐
 
-Virtualization lets you create virtual versions of physical resources like computers, servers, or storage devices. Think of it like having multiple TVs inside one screen, where each TV shows a different channel and works independently.
+Virtua lization lets you create virtual versions of physical resources like computers, servers, or storage devices. Think of it like having multiple TVs inside one screen, where each TV shows a different channel and works independently.
 
 ### Key Types of Virtualization:
 
