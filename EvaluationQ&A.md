@@ -5,7 +5,7 @@ This document contains the answers and explanations for the **Born2BeRoot evalua
 ----
 
 
-![Diagram Description](./image/hsbegood.svg)
+![Diagram Description](./image/B2R_Eval.svg)
 
 
 ----
