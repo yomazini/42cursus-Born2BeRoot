@@ -1,5 +1,6 @@
 #!/bin/bash
 while true; do
+        sleep 600
 wall    "
         #Architecture: $(uname -a)
         #CPU physical: $(cat /proc/cpuinfo | grep "physical id" | wc -l)
@@ -14,5 +15,4 @@ wall    "
         #Network: IP $(hostname -I) ($(ip link | grep "link/ether" | awk '{print $2}'))
         #Sudo : $(journalctl _COMM=sudo | grep COMMAND | wc -l) cmd
         "
-sleep 600
 done
