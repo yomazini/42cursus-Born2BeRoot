@@ -107,10 +107,7 @@ Extra learning materials for mastering Ssh ,Sys Adminstrartion ,LVM, UFW, and mo
 
 ### 📖 **Key Resources**:  
 Here are some extra materials to explore:  
-- [Debian Documentation](https://www.debian.org/doc/)  
-- [LVM Guide](https://www.redhat.com/sysadmin/intro-lvm)  
-- [UFW Basics](https://help.ubuntu.com/community/UFW)  
-
+	--> GOOGLE it
 ### 🧠 **Flashcards for Long-Term Retention**:  
 Flashcards are a **game-changer** for retaining Born2BeRoot knowledge.  
 1. Check the [Basic_flashcards.md](./Flashcards/Basic_flashcards.md) for a quick Markdown version.  
